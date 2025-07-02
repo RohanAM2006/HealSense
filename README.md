@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/325f4b4f-fe35-4bb7-b8a6-139f498bd800)# HealSense
+# HealSense
 # 🩺HealSense — Decode Your Health | Securely | Intelligently
 
 HealSense is a smart health monitoring and analytics platform that uses AI to transform medical reports into actionable insights. Built with a mission to make healthcare more accessible, personalized, and proactive, HealSense empowers users to take charge of their health.
