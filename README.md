@@ -3,7 +3,7 @@
 
 SwasthWrap is a smart health monitoring and analytics platform that uses AI to transform medical reports into actionable insights. Built with a mission to make healthcare more accessible, personalized, and proactive, SwasthWrap empowers users to take charge of their health.
 
-Developed by [Rohan A M]([https://github.com/yourusername)](https://github.com/RohanAM-286) and [Rohith](https://github.com/JustCool0208), this project combines modern web technologies, real-time ML predictions, and secure storage to help individuals understand and improve their well-being.
+Developed by [Rohan A M](https://github.com/RohanAM-286) and [Rohith](https://github.com/JustCool0208), this project combines modern web technologies, real-time ML predictions, and secure storage to help individuals understand and improve their well-being.
 
 ---
 
