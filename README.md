@@ -39,3 +39,17 @@ git clone https://github.com/yourusername/swasthwrap.git
 cd swasthwrap
 
 
+
+
+
+swasthwrap/
+├── backend/
+│   ├── main.py
+│   ├── models/
+│   └── ml/
+├── frontend/
+│   ├── pages/
+│   ├── components/
+│   └── styles/
+└── README.md
+
