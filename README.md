@@ -1,11 +1,34 @@
-# HealSense
+![image](https://github.com/user-attachments/assets/315b5a0f-4598-4c45-aaba-55adc5f60d1b)![image](https://github.com/user-attachments/assets/595c909f-75b7-4c4e-a390-0c482ba36075)# HealSense
 # 🩺HealSense — Decode Your Health | Securely | Intelligently
 
-SwasthWrap is a smart health monitoring and analytics platform that uses AI to transform medical reports into actionable insights. Built with a mission to make healthcare more accessible, personalized, and proactive, SwasthWrap empowers users to take charge of their health.
+HealSense is a smart health monitoring and analytics platform that uses AI to transform medical reports into actionable insights. Built with a mission to make healthcare more accessible, personalized, and proactive, HealSense empowers users to take charge of their health.
 
 Developed by [Rohan A M](https://github.com/RohanAM-286) and [Rohith](https://github.com/JustCool0208), this project combines modern web technologies, real-time ML predictions, and secure storage to help individuals understand and improve their well-being.
 
 ---
+
+![image](https://github.com/user-attachments/assets/bcc1ef79-a780-47a5-bf5c-94e7e1dede75)
+![image](https://github.com/user-attachments/assets/7da21a94-65ad-4ddc-bb36-4397be31b97e)
+![image](https://github.com/user-attachments/assets/786205a0-352d-43dc-860f-25308268d038)
+![image](https://github.com/user-attachments/assets/9c9fcfb1-6c62-418e-b69b-6b07f2c59424)
+![image](https://github.com/user-attachments/assets/365409ed-46a0-4368-a4d7-8e6203f6c219)
+![image](https://github.com/user-attachments/assets/069d75f9-0865-4a83-9774-c76a58230aed)
+![image](https://github.com/user-attachments/assets/b932097b-d357-441c-9e62-cac74beb7656)
+![image](https://github.com/user-attachments/assets/1d548b80-7a1f-49af-966d-16ad6ea3f709)
+![image](https://github.com/user-attachments/assets/1f4ed104-c692-4bb0-a171-0612b2306ea0)
+![image](https://github.com/user-attachments/assets/3fe57a2c-3f87-4f72-be47-fba83a8a61a7)
+![image](https://github.com/user-attachments/assets/ceddc577-4574-4b99-8e59-1f019050b175)
+![image](https://github.com/user-attachments/assets/7b385c22-2a91-43b3-877c-239fcfbf354e)
+
+
+
+
+
+
+
+
+
+
 
 ## 🌟 Features
 
