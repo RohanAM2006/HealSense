@@ -35,14 +35,14 @@ Developed by [Rohan A M](https://github.com/RohanAM-286) and [Rohith](https://gi
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/swasthwrap.git
-cd swasthwrap
+git clone https://github.com/yourusername/HealSense.git
+cd HealSense
 
 
 
 
 
-swasthwrap/
+HealSense/
 ├── backend/
 │   ├── main.py
 │   ├── models/
@@ -52,4 +52,32 @@ swasthwrap/
 │   ├── components/
 │   └── styles/
 └── README.md
+🛡️ Security & Privacy
+All health data is stored securely in MongoDB. No third-party data sharing. For demo purposes, sample data is used.
+
+🤝 Contributing
+We welcome contributions!
+
+Fork the repository
+
+Create your feature branch (git checkout -b feature/your-feature)
+
+Commit your changes (git commit -m 'Add your feature')
+
+Push to the branch (git push origin feature/your-feature)
+
+Create a Pull Request
+
+📢 Acknowledgments
+Built with ❤️ by Rohan A M and Rohith A M
+
+Inspired by the need for accessible healthcare tech
+
+Special thanks to OpenAI, MongoDB, and the developer community
+
+📬 Contact
+Rohan: rohan02aug@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/rohan-a-m-0382a2324/
+
 
