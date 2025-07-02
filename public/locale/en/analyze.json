@@ -1,0 +1,10 @@
+{
+  "title": "🩺 Analyze Medical Report",
+  "uploadLabel": "Upload PDF or Image",
+  "analyze": "Analyze",
+  "loading": "Analyzing...",
+  "extracted": "📄 Extracted Text",
+  "summary": "🧠 AI Summary",
+  "noFile": "Please select a file",
+  "error": "Error analyzing report. Make sure backend is running."
+}

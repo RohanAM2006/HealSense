@@ -1,0 +1,12 @@
+{
+  "Consent": {
+    "title": "Consent Analytics",
+    "granted": "Consent Granted",
+    "revoked": "Consent Revoked"
+  },
+  "Disease": {
+    "pneumonia": "Pneumonia",
+    "flu": "Flu",
+    "covid": "COVID-19"
+  }
+}
