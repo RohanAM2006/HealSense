@@ -1,4 +1,4 @@
-# HealSense
+![image](https://github.com/user-attachments/assets/325f4b4f-fe35-4bb7-b8a6-139f498bd800)# HealSense
 # 🩺HealSense — Decode Your Health | Securely | Intelligently
 
 HealSense is a smart health monitoring and analytics platform that uses AI to transform medical reports into actionable insights. Built with a mission to make healthcare more accessible, personalized, and proactive, HealSense empowers users to take charge of their health.
@@ -13,7 +13,7 @@ Developed by [Rohan A M](https://github.com/RohanAM-286) and [Rohith](https://gi
 ![image](https://github.com/user-attachments/assets/9c9fcfb1-6c62-418e-b69b-6b07f2c59424)
 ![image](https://github.com/user-attachments/assets/365409ed-46a0-4368-a4d7-8e6203f6c219)
 ![image](https://github.com/user-attachments/assets/069d75f9-0865-4a83-9774-c76a58230aed)
-![image](https://github.com/user-attachments/assets/b932097b-d357-441c-9e62-cac74beb7656)
+![image](https://github.com/user-attachments/assets/b14fce4a-2639-4060-883c-e47c625fac63)
 ![image](https://github.com/user-attachments/assets/1d548b80-7a1f-49af-966d-16ad6ea3f709)
 ![image](https://github.com/user-attachments/assets/1f4ed104-c692-4bb0-a171-0612b2306ea0)
 ![image](https://github.com/user-attachments/assets/3fe57a2c-3f87-4f72-be47-fba83a8a61a7)
