@@ -97,7 +97,7 @@ Built with ❤️ by Rohan A M and Rohith A M
 
 Inspired by the need for accessible healthcare tech
 
-Special thanks to OpenAI, MongoDB, and the developer community
+
 
 📬 Contact
 Rohan: rohan02aug@gmail.com
